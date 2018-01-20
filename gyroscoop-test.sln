@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gyroscoop-test", "gyroscoop-test.csproj", "{F4754B51-57B7-80CF-8E09-976A092D6E16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4754B51-57B7-80CF-8E09-976A092D6E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4754B51-57B7-80CF-8E09-976A092D6E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4754B51-57B7-80CF-8E09-976A092D6E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4754B51-57B7-80CF-8E09-976A092D6E16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
